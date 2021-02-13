@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog ",
+      "body": "lorem Ipsum Blog Post Tech Content",
+      "author": "ali",
+      "id": 1
+    },
+    {
+      "title": "My second Blog",
+      "body": "lorem 2 Article for healthy food",
+      "author": "labib",
+      "id": 2
+    },
+    {
+      "title": "acsc",
+      "body": "wwwq",
+      "author": "labib",
+      "id": 4
+    },
+    {
+      "title": "In quo ab voluptas e",
+      "body": "Eum nisi nihil persp",
+      "author": "ali",
+      "id": 5
+    },
+    {
+      "title": "Sunt doloremque quod",
+      "body": "Placeat dolorem dig",
+      "author": "ali",
+      "id": 6
+    },
+    {
+      "title": "Et ullam omnis ratio",
+      "body": "Placeat numquam qui",
+      "author": "labib",
+      "id": 7
+    }
+  ]
+}
